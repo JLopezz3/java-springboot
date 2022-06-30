@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CourseApiApp {
 
     public static void main(String[] args) {
+
+        // takes in the (.class, args)
         SpringApplication.run(CourseApiApp.class, args);
     }
 
